@@ -28,7 +28,7 @@ spec:
         - clone
         - --single-branch
         - --
-        - https://github.com/jmutai/hello-world-nginx.git
+        - https://github.com/mandemit/hello-world-nginx.git
         - /data
     volumeMounts:
     - mountPath: /data
